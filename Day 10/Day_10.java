@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Day_10 {
     public static List<String> letterCombinations(String digits){
         List<String> result = new ArrayList<String>();
         if(digits.length() == 0 || digits == null){
