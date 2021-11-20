@@ -1,0 +1,36 @@
+13-11-2021
+
+1. You are given a number n.
+2. You've to create a pattern of * and separated by tab as shown in output format.
+
+Constraints
+
+1 
+
+Format
+
+Input
+
+A number n
+
+Output
+
+*	*	*		*	*	*	
+*	*				*	*	
+*						*	
+*	*				*	*	
+*	*	*		*	*	*
+
+Example
+
+Sample Input
+
+5
+
+Sample Output
+
+*	*	*		*	*	*	
+*	*				*	*	
+*						*	
+*	*				*	*	
+*	*	*		*	*	*
